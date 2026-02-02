@@ -1,0 +1,6 @@
+*.txt
+
+bookcorpus/checkpoints
+bookcorpus/data_raw
+bookcorpus/data_bin
+bookcorpus/__pycache__
